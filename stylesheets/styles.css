@@ -326,6 +326,9 @@ img {
   /* 2 */
 }
 
+.inline-image {
+  margin-left:-4%;
+}
 /*
  * Corrects overflow displayed oddly in IE9
  */
